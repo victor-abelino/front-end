@@ -1,0 +1,21 @@
+.form_control{
+    display:contents;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.form_control label{
+    padding: .7em;
+    border-radius: 1;
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+
+.form_control select{
+    width: 1020px;
+    padding: 12px;
+    border-radius: 1;
+    border: 1;
+    color: gold;
+}
